@@ -14,6 +14,6 @@ The Reports and Presentation folder has presentation video and report for the pr
 
 Scrapping has the scraping files to download the dataset.
 
-Download the LSTM model weights from this link and add it to LSTM/weights.
+Download the LSTM model weights from this link (https://drive.google.com/open?id=1C8M95GKPkFWG3mFJuYu-cOXkZc0uTqe9) and add it to LSTM/weights.
 
 You can listen to the output at : https://soundcloud.com/yatri-patel-793078277/sets/lstm-gan-neural-network
